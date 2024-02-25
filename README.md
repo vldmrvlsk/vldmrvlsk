@@ -1,6 +1,6 @@
 ## Hello, I'm vldmrvlsk
 
-### I'm a a novice programmer who likes to learn something new and useful
+### I'm a novice programmer who likes to learn something new and useful
 
 I like
 - :blue_book: books
